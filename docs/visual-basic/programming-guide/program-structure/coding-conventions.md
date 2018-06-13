@@ -145,7 +145,7 @@ Microsoft は、ここで示すガイドラインに従ってサンプルおよ�
   
 ### <a name="event-handling"></a>イベント処理  
   
--   `Handles` ではなく `AddHandler` を使用します。  
+-   `AddHandler` ではなく `Handles` を使用します。  
   
      [!code-vb[VbVbalrGuidelines#24](../../../visual-basic/programming-guide/program-structure/codesnippet/VisualBasic/coding-conventions_16.vb)]  
   
